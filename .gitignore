@@ -1,0 +1,19 @@
+# Secrets (keep .env.example tracked)
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Tests / evals
+.pytest_cache/
+.deepeval/
+.deepeval_telemetry.txt
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

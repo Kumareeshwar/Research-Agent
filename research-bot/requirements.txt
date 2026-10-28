@@ -1,0 +1,28 @@
+# Agent / graph
+langgraph
+langchain
+langchain-anthropic
+anthropic
+
+# Research tools
+tavily-python
+httpx
+beautifulsoup4
+
+# Telegram + API
+python-telegram-bot
+fastapi
+uvicorn
+
+# Config / models
+python-dotenv
+pydantic
+
+# Tests / evals
+pytest
+pytest-asyncio
+langchain-groq
+deepeval
+
+# Tracing
+langsmith
